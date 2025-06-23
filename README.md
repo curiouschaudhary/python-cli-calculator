@@ -37,3 +37,8 @@ A simple and user-friendly **Command-Line Calculator** built using Python. This 
    ```bash
    git clone https://github.com/<your-username>/cli-calculator.git
    cd cli-calculator
+
+
+👨‍💻 Author
+Vineet Kumar Chaudhary
+Python Developer Intern | Data Science Enthusiast
